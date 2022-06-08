@@ -19,7 +19,7 @@ public class test : MonoBehaviour {
 
             //transform.Translate(new Vector2(0f, 1f));
 
-            transform.Translate(new Vector3(0f, 1f));
+            transform.Translate(new Vector3(0f, 1f));ghj
 
         }
     }
